@@ -29,10 +29,9 @@ Three main explainability models were adopted and each gave new, actionable insi
 (2) Global SHAP Values indicated important features and the directions of their coefficients (whether it is negative or positive). <br>
 (3) Local SHAP Values and LIME explored the direction of the selected features for specific cases, allowing further investigation on a particular unit when needed. <br>
 
-These models extended the findings presented in the original project by facilitating stakeholders to deep dive into the prediction and interpret the results in an actionable and tangible manner.
+These models extended the findings presented in the original project by facilitating stakeholders to deep dive into the prediction and interpret the results in an actionable and tangible manner. <br>
 
-<br>
-### Collaborators <br>
+### Collaborators
 Gino Martelli Tiu <br>
 Wong Cheng An <br>
 Widya Salim <br>
