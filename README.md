@@ -26,8 +26,8 @@ Overall, there were over 83 original features and 10,175 individual rows, which 
 Three main explainability models were adopted and they 
 
 (1) Permutation Feature Importance highlighted features which were most important, such as age, weight and physical health indicators. This would have helped stakeholders to allocate their resources accordingly. <br>
-(2) .<br>
-(3) .<br>
+(2) SHAP Values is. <br>
+(3) . <br>
 
 <br>
 ### Collaborators
